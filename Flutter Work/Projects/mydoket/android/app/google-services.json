@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "292617894115",
+    "project_id": "mydoket-b47c5",
+    "storage_bucket": "mydoket-b47c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292617894115:android:3b37c0beae31dd473cedd6",
+        "android_client_info": {
+          "package_name": "com.rosh.mydoket.mydoket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292617894115-ugmg95urri5pe3iugs0eoshi0afkmaah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rosh.mydoket.mydoket",
+            "certificate_hash": "62990b81e5c6edcd8e2469e6df43ef6e60f365ba"
+          }
+        },
+        {
+          "client_id": "292617894115-3sjka46i7ieurnhbq0ql2v798sl7pct5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyZaiyPjNUtEaFrlATnbR5yqI6DvdItaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292617894115-3sjka46i7ieurnhbq0ql2v798sl7pct5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
